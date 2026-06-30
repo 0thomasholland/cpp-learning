@@ -70,3 +70,4 @@ Testing/
 
 *.dSYM
 *.pdf
+*.DS_Store
